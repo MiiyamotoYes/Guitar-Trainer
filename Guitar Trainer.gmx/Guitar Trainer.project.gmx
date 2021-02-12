@@ -17,6 +17,7 @@
     <object>objects\obj_guitar</object>
     <object>objects\obj_sheet</object>
     <object>objects\obj_note</object>
+    <object>objects\obj_S6F1</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Guitar</room>
