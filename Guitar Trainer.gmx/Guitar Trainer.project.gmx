@@ -29,6 +29,21 @@
       <object>objects\obj_S6F7</object>
       <object>objects\obj_S6F8</object>
       <object>objects\obj_S6F9</object>
+      <object>objects\obj_S6F10</object>
+      <object>objects\obj_S6F11</object>
+      <object>objects\obj_S6F12</object>
+      <object>objects\obj_S5F1</object>
+      <object>objects\obj_S5F2</object>
+      <object>objects\obj_S5F3</object>
+      <object>objects\obj_S5F4</object>
+      <object>objects\obj_S5F5</object>
+      <object>objects\obj_S5F6</object>
+      <object>objects\obj_S5F7</object>
+      <object>objects\obj_S5F8</object>
+      <object>objects\obj_S5F9</object>
+      <object>objects\obj_S5F10</object>
+      <object>objects\obj_S5F11</object>
+      <object>objects\obj_S5F12</object>
     </objects>
   </objects>
   <rooms name="rooms">
