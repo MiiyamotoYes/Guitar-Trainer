@@ -9,12 +9,14 @@
     <sprite>sprites\spr_guitar</sprite>
     <sprite>sprites\spr_sheet</sprite>
     <sprite>sprites\spr_note</sprite>
+    <sprite>sprites\button</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_guitar</object>
     <object>objects\obj_sheet</object>
+    <object>objects\obj_note</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Guitar</room>
