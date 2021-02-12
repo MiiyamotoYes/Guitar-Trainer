@@ -10,6 +10,7 @@
     <sprite>sprites\spr_sheet</sprite>
     <sprite>sprites\spr_note</sprite>
     <sprite>sprites\button</sprite>
+    <sprite>sprites\sprite4</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -18,6 +19,7 @@
     <object>objects\obj_sheet</object>
     <object>objects\obj_note</object>
     <object>objects\obj_S6F1</object>
+    <object>objects\obj_S6F2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Guitar</room>
