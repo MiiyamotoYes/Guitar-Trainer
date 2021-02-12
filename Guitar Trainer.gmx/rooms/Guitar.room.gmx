@@ -50,15 +50,15 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_S4F1" x="63" y="558" name="inst_1697561A" locked="0" code="" scaleX="0.7421875" scaleY="0.433070868253708" colour="4294967295" rotation="0"/>
-    <instance objName="obj_S6F1" x="63" y="594" name="inst_3FD39D86" locked="0" code="" scaleX="0.734375" scaleY="0.480314999818802" colour="4294967295" rotation="0"/>
-    <instance objName="obj_S6F4" x="336" y="597" name="inst_634F08DB" locked="0" code="" scaleX="0.585937976837158" scaleY="0.382813006639481" colour="4294967295" rotation="0"/>
-    <instance objName="obj_S6F4" x="273" y="597" name="inst_8493036E" locked="0" code="" scaleX="0.640625" scaleY="0.362204730510712" colour="4294967295" rotation="0"/>
-    <instance objName="obj_S6F2" x="207" y="594" name="inst_CFA1332F" locked="0" code="" scaleX="0.65625" scaleY="0.453125" colour="4294967295" rotation="0"/>
-    <instance objName="obj_S6F2" x="135" y="594" name="inst_0116B123" locked="0" code="" scaleX="0.671875" scaleY="0.441859990358353" colour="4294967295" rotation="0"/>
     <instance objName="obj_sheet" x="32" y="64" name="inst_7E798906" locked="0" code="" scaleX="2.11952996253967" scaleY="2.3617000579834" colour="4294967295" rotation="0"/>
     <instance objName="obj_guitar" x="642" y="534" name="inst_9C5AA756" locked="0" code="" scaleX="0.661282002925873" scaleY="0.76111102104187" colour="4294967295" rotation="0"/>
-    <instance objName="obj_S6F4" x="396" y="600" name="inst_D827FC07" locked="0" code="" scaleX="0.5703125" scaleY="0.364341080188751" colour="4294967295" rotation="0"/>
+    <instance objName="obj_S6F4" x="336" y="597" name="inst_634F08DB" locked="0" code="" scaleX="0.585937976837158" scaleY="0.382813006639481" colour="4294967295" rotation="0"/>
+    <instance objName="obj_S6F4" x="399" y="600" name="inst_D827FC07" locked="0" code="" scaleX="0.492188006639481" scaleY="0.434109002351761" colour="4294967295" rotation="0"/>
+    <instance objName="obj_S6F4" x="273" y="597" name="inst_8493036E" locked="0" code="" scaleX="0.640625" scaleY="0.362204998731613" colour="4294967295" rotation="0"/>
+    <instance objName="obj_S6F2" x="207" y="594" name="inst_CFA1332F" locked="0" code="" scaleX="0.65625" scaleY="0.453125" colour="4294967295" rotation="0"/>
+    <instance objName="&lt;undefined&gt;" x="63" y="558" name="inst_1697561A" locked="0" code="" scaleX="0.7421875" scaleY="0.433070868253708" colour="4294967295" rotation="0"/>
+    <instance objName="obj_S6F1" x="63" y="594" name="inst_3FD39D86" locked="0" code="" scaleX="0.734375" scaleY="0.480314999818802" colour="4294967295" rotation="0"/>
+    <instance objName="obj_S6F2" x="135" y="594" name="inst_0116B123" locked="0" code="" scaleX="0.664062976837158" scaleY="0.480619996786118" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
