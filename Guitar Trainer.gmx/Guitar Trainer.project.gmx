@@ -21,6 +21,10 @@
     <object>objects\obj_note</object>
     <object>objects\obj_S6F1</object>
     <object>objects\obj_S6F2</object>
+    <object>objects\obj_S6F3</object>
+    <object>objects\obj_S6F4</object>
+    <object>objects\obj_S6F5</object>
+    <object>objects\obj_S6F6</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Guitar</room>
