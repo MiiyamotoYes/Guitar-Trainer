@@ -53,6 +53,7 @@
     <instance objName="obj_S6F1" x="63" y="594" name="inst_3FD39D86" locked="0" code="" scaleX="0.734375" scaleY="0.480314999818802" colour="4294967295" rotation="0"/>
     <instance objName="obj_sheet" x="32" y="64" name="inst_7E798906" locked="0" code="" scaleX="2.11952996253967" scaleY="2.3617000579834" colour="4294967295" rotation="0"/>
     <instance objName="obj_guitar" x="642" y="534" name="inst_9C5AA756" locked="0" code="" scaleX="0.661282002925873" scaleY="0.76111102104187" colour="4294967295" rotation="0"/>
+    <instance objName="obj_S6F2" x="135" y="594" name="inst_0116B123" locked="0" code="" scaleX="0.682170987129211" scaleY="0.503937005996704" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
