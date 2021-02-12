@@ -8,11 +8,13 @@
   <sprites name="sprites">
     <sprite>sprites\spr_guitar</sprite>
     <sprite>sprites\spr_sheet</sprite>
+    <sprite>sprites\spr_note</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\obj_guitar</object>
+    <object>objects\obj_sheet</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Guitar</room>
