@@ -4,7 +4,13 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
-  <sounds name="sound"/>
+  <sounds name="sound">
+    <sound>sound\snd_S6F0E</sound>
+    <sound>sound\snd_S6F1F</sound>
+    <sound>sound\snd_S6F2Fs</sound>
+    <sound>sound\snd_Silence</sound>
+    <sound>sound\snd_S6F3G</sound>
+  </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_guitar</sprite>
     <sprite>sprites\spr_sheet</sprite>
@@ -19,7 +25,7 @@
     <object>objects\obj_guitar</object>
     <object>objects\obj_sheet</object>
     <object>objects\obj_note</object>
-    <objects name="Nathan">
+    <objects name="Frets">
       <object>objects\obj_S6F1</object>
       <object>objects\obj_S6F2</object>
       <object>objects\obj_S6F3</object>
@@ -44,7 +50,66 @@
       <object>objects\obj_S5F10</object>
       <object>objects\obj_S5F11</object>
       <object>objects\obj_S5F12</object>
+      <object>objects\obj_S4F1</object>
+      <object>objects\obj_S4F2</object>
+      <object>objects\obj_S4F3</object>
+      <object>objects\obj_S4F4</object>
+      <object>objects\obj_S4F5</object>
+      <object>objects\obj_S4F6</object>
+      <object>objects\obj_S4F7</object>
+      <object>objects\obj_S4F8</object>
+      <object>objects\obj_S4F9</object>
+      <object>objects\obj_S4F10</object>
+      <object>objects\obj_S4F11</object>
+      <object>objects\obj_S4F12</object>
+      <object>objects\obj_S3F1</object>
+      <object>objects\obj_S3F2</object>
+      <object>objects\obj_S3F3</object>
+      <object>objects\obj_S3F4</object>
+      <object>objects\obj_S3F5</object>
+      <object>objects\obj_S3F6</object>
+      <object>objects\obj_S3F7</object>
+      <object>objects\obj_S3F8</object>
+      <object>objects\obj_S3F9</object>
+      <object>objects\obj_S3F10</object>
+      <object>objects\obj_S3F11</object>
+      <object>objects\obj_S3F12</object>
+      <object>objects\obj_S2F1</object>
+      <object>objects\obj_S2F2</object>
+      <object>objects\obj_S2F3</object>
+      <object>objects\obj_S2F4</object>
+      <object>objects\obj_S2F5</object>
+      <object>objects\obj_S2F6</object>
+      <object>objects\obj_S2F7</object>
+      <object>objects\obj_S2F8</object>
+      <object>objects\obj_S2F9</object>
+      <object>objects\obj_S2F10</object>
+      <object>objects\obj_S2F11</object>
+      <object>objects\obj_S2F12</object>
+      <object>objects\obj_S1F1</object>
+      <object>objects\obj_S1F2</object>
+      <object>objects\obj_S1F3</object>
+      <object>objects\obj_S1F4</object>
+      <object>objects\obj_S1F5</object>
+      <object>objects\obj_S1F6</object>
+      <object>objects\obj_S1F7</object>
+      <object>objects\obj_S1F8</object>
+      <object>objects\obj_S1F9</object>
+      <object>objects\obj_S1F10</object>
+      <object>objects\obj_S1F11</object>
+      <object>objects\obj_S1F12</object>
+      <object>objects\obj_S6F0</object>
+      <object>objects\obj_S5F0</object>
+      <object>objects\obj_S4F0</object>
+      <object>objects\obj_S3F0</object>
+      <object>objects\obj_S2F0</object>
+      <object>objects\obj_S1F0</object>
+      <object>objects\obj_S6F13</object>
+      <object>objects\obj_S6F14</object>
+      <object>objects\obj_S6F15</object>
+      <object>objects\obj_S5F13</object>
     </objects>
+    <object>objects\Ambience</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Guitar</room>

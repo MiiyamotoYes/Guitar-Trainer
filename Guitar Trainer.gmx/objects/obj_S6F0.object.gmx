@@ -25,9 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>///Clicked!
-
-audio_play_sound(snd_S6F3G, 0, false);
+            <string>///Clicked
+audio_play_sound(snd_S6F0E, 0, false);
 </string>
           </argument>
         </arguments>
