@@ -4,6 +4,7 @@
     <Config>Configs\Default</Config>
   </Configs>
   <NewExtensions/>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   <sounds name="sound"/>
 =======
@@ -17,6 +18,9 @@
     <sound>sound\snd_S6F5A</sound>
   </sounds>
 >>>>>>> Stashed changes
+=======
+  <sounds name="sound"/>
+>>>>>>> parent of 0373a47 (Finished buttons and added sound)
   <sprites name="sprites">
     <sprite>sprites\spr_guitar</sprite>
     <sprite>sprites\spr_sheet</sprite>
@@ -29,8 +33,37 @@
     <object>objects\obj_guitar</object>
     <object>objects\obj_sheet</object>
     <object>objects\obj_note</object>
+<<<<<<< HEAD
     <object>objects\obj_S6F1</object>
     <object>objects\obj_S6F2</object>
+=======
+    <objects name="Nathan">
+      <object>objects\obj_S6F1</object>
+      <object>objects\obj_S6F2</object>
+      <object>objects\obj_S6F3</object>
+      <object>objects\obj_S6F4</object>
+      <object>objects\obj_S6F5</object>
+      <object>objects\obj_S6F6</object>
+      <object>objects\obj_S6F7</object>
+      <object>objects\obj_S6F8</object>
+      <object>objects\obj_S6F9</object>
+      <object>objects\obj_S6F10</object>
+      <object>objects\obj_S6F11</object>
+      <object>objects\obj_S6F12</object>
+      <object>objects\obj_S5F1</object>
+      <object>objects\obj_S5F2</object>
+      <object>objects\obj_S5F3</object>
+      <object>objects\obj_S5F4</object>
+      <object>objects\obj_S5F5</object>
+      <object>objects\obj_S5F6</object>
+      <object>objects\obj_S5F7</object>
+      <object>objects\obj_S5F8</object>
+      <object>objects\obj_S5F9</object>
+      <object>objects\obj_S5F10</object>
+      <object>objects\obj_S5F11</object>
+      <object>objects\obj_S5F12</object>
+    </objects>
+>>>>>>> parent of 0373a47 (Finished buttons and added sound)
   </objects>
   <rooms name="rooms">
     <room>rooms\Guitar</room>

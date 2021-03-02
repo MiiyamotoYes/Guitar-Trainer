@@ -52,6 +52,7 @@
   </views>
   <instances>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <instance objName="obj_guitar" x="642" y="555" name="inst_9C5AA756" locked="0" code="" scaleX="0.661282002925873" scaleY="0.76111102104187" colour="4294967295" rotation="0"/>
     <instance objName="obj_sheet" x="24" y="42" name="inst_7E798906" locked="0" code="" scaleX="2.11952996253967" scaleY="2.3617000579834" colour="4294967295" rotation="0"/>
     <instance objName="obj_S6F1" x="60" y="603" name="inst_0B7276B0" locked="0" code="" scaleX="0.71875" scaleY="0.414063006639481" colour="4294967295" rotation="0"/>
@@ -71,9 +72,17 @@
 =======
     <instance objName="obj_guitar" x="642" y="534" name="inst_9C5AA756" locked="0" code="" scaleX="0.661282002925873" scaleY="0.76111102104187" colour="4294967295" rotation="0"/>
     <instance objName="obj_S6F4" x="272" y="596" name="inst_8493036E" locked="0" code="" scaleX="0.642857134342194" scaleY="0.439024388790131" colour="4294967295" rotation="0"/>
+=======
+    <instance objName="obj_S6F4" x="336" y="597" name="inst_634F08DB" locked="0" code="" scaleX="0.608246982097626" scaleY="0.282050997018814" colour="4294967295" rotation="0"/>
+    <instance objName="obj_S6F4" x="396" y="597" name="inst_D827FC07" locked="0" code="" scaleX="0.571428596973419" scaleY="0.309523820877075" colour="4294967295" rotation="0"/>
+    <instance objName="obj_S6F4" x="273" y="597" name="inst_8493036E" locked="0" code="" scaleX="0.642857134342194" scaleY="0.317073166370392" colour="4294967295" rotation="0"/>
+    <instance objName="obj_S6F2" x="204" y="594" name="inst_CFA1332F" locked="0" code="" scaleX="0.69696968793869" scaleY="0.309523820877075" colour="4294967295" rotation="0"/>
+>>>>>>> parent of 0373a47 (Finished buttons and added sound)
     <instance objName="&lt;undefined&gt;" x="63" y="558" name="inst_1697561A" locked="0" code="" scaleX="0.7421875" scaleY="0.433070868253708" colour="4294967295" rotation="0"/>
     <instance objName="obj_S6F1" x="60" y="591" name="inst_3FD39D86" locked="0" code="" scaleX="0.734693884849548" scaleY="0.324999988079071" colour="4294967295" rotation="0"/>
     <instance objName="obj_S6F2" x="135" y="594" name="inst_0116B123" locked="0" code="" scaleX="0.673469364643097" scaleY="0.349999994039536" colour="4294967295" rotation="0"/>
+    <instance objName="obj_sheet" x="32" y="64" name="inst_7E798906" locked="0" code="" scaleX="2.11952996253967" scaleY="2.3617000579834" colour="4294967295" rotation="0"/>
+    <instance objName="obj_guitar" x="642" y="534" name="inst_9C5AA756" locked="0" code="" scaleX="0.661282002925873" scaleY="0.76111102104187" colour="4294967295" rotation="0"/>
     <instance objName="obj_S6F7" x="453" y="600" name="inst_E94890BF" locked="0" code="" scaleX="0.525252997875214" scaleY="0.349999994039536" colour="4294967295" rotation="0"/>
     <instance objName="obj_S6F8" x="507" y="600" name="inst_86557191" locked="0" code="" scaleX="0.5" scaleY="0.380952000617981" colour="4294967295" rotation="0"/>
     <instance objName="obj_S6F9" x="558" y="600" name="inst_6078DC59" locked="0" code="" scaleX="0.459183990955353" scaleY="0.400000005960464" colour="4294967295" rotation="0"/>
@@ -91,6 +100,7 @@
     <instance objName="obj_S5F9" x="558" y="579" name="inst_57EA4642" locked="0" code="" scaleX="0.479591846466064" scaleY="0.400000005960464" colour="4294967295" rotation="0"/>
     <instance objName="obj_S5F10" x="606" y="579" name="inst_2F0AEA84" locked="0" code="" scaleX="0.428571432828903" scaleY="0.414634138345718" colour="4294967295" rotation="0"/>
     <instance objName="obj_S5F11" x="652" y="580" name="inst_1CA5B005" locked="0" code="" scaleX="0.418367356061935" scaleY="0.400000005960464" colour="4294967295" rotation="0"/>
+<<<<<<< HEAD
     <instance objName="obj_S5F12" x="696" y="580" name="inst_D8C750A2" locked="0" code="" scaleX="0.391752988100052" scaleY="0.449999988079071" colour="4294967295" rotation="0"/>
     <instance objName="obj_S4F1" x="60" y="557" name="inst_C835DB6F" locked="0" code="" scaleX="0.755102038383484" scaleY="0.349999994039536" colour="4294967295" rotation="0"/>
     <instance objName="obj_S4F2" x="135" y="556" name="inst_0E119F42" locked="0" code="" scaleX="0.683673441410065" scaleY="0.349999994039536" colour="4294967295" rotation="0"/>
@@ -152,6 +162,9 @@
     <instance objName="obj_S6F5" x="336" y="597" name="inst_9CF419DB" locked="0" code="" scaleX="0.61224490404129" scaleY="0.463414639234543" colour="4294967295" rotation="0"/>
     <instance objName="obj_S6F6" x="396" y="598" name="inst_ED6BA168" locked="0" code="" scaleX="0.571428596973419" scaleY="0.463414639234543" colour="4294967295" rotation="0"/>
 >>>>>>> parent of 1937d96 (Added buttons and sound)
+=======
+    <instance objName="obj_S5F12" x="696" y="580" name="inst_D8C750A2" locked="0" code="" scaleX="0.391752570867538" scaleY="0.449999988079071" colour="4294967295" rotation="0"/>
+>>>>>>> parent of 0373a47 (Finished buttons and added sound)
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
