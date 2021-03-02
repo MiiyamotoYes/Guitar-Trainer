@@ -132,6 +132,7 @@
     <instance objName="Ambience" x="842" y="13" name="inst_A60CEB9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_S6F3" x="205" y="594" name="inst_12DC1C00" locked="0" code="" scaleX="0.663265287876129" scaleY="0.474999994039536" colour="4294967295" rotation="0"/>
     <instance objName="obj_S6F6" x="396" y="598" name="inst_ED6BA168" locked="0" code="" scaleX="0.571428596973419" scaleY="0.463414639234543" colour="4294967295" rotation="0"/>
+    <instance objName="obj_note" x="194" y="162" name="inst_F1D0AD89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
