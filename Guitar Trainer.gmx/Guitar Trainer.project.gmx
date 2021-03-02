@@ -10,6 +10,8 @@
     <sound>sound\snd_S6F2Fs</sound>
     <sound>sound\snd_Silence</sound>
     <sound>sound\snd_S6F3G</sound>
+    <sound>sound\snd_S6F4Gs</sound>
+    <sound>sound\snd_S6F5A</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_guitar</sprite>
